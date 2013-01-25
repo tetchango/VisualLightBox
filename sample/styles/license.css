@@ -1,0 +1,153 @@
+table.comparison {
+	background: none;
+    border: 0 none;
+    border-spacing: 0;
+    width: 100%;
+	text-transform: uppercase;
+}
+table.comparison th {
+    border-bottom: 1px dashed #5DACC3;
+    padding: 6px;
+    text-align: center;
+    vertical-align: top;
+	color: #5DACC3;
+    font: 18px "KreonRegular",sans-serif;
+	font-weight: bold;
+
+}
+table.comparison th span {
+    color: #FF8100;
+	font-size: 18px;
+	font-weight: bold;
+}
+/*table.comparison th.unlim, table.comparison td.unlim {
+	background-color: #5fd3e7;
+	color: #FFFFFF;
+}*/
+table.comparison td.heading {
+    text-align: left;
+    vertical-align: middle;
+    width: 200px;
+}
+
+table.comparison tr.header:hover {
+	background: none;
+}
+
+table.comparison td {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #5DACC3;
+    border-style: none none dashed none;
+    border-width: 0 0 1px 0;
+    padding: 6px;
+	text-align: center;
+	vertical-align: middle;
+}
+table.comparison td span {
+    display: block;
+    font: 14px "KreonRegular",sans-serif;
+    letter-spacing: normal;
+	text-transform: none;
+}
+table.comparison  tr {
+    color: #5DACC3;
+}
+table.comparison  tr:hover {
+    background-color: #5DACC3;
+    color: #FFFFFF;
+}
+#last td{
+	border: none;
+}
+.button_free {
+    background-image: url("../images/btn-blue-license.gif");
+    background-repeat: no-repeat; 
+	line-height: 30px;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: -1px;
+	padding: 4px;
+	text-decoration: none;
+}
+.button_free:hover {
+	color: #404040;
+	text-decoration: none;
+}
+.button_buy {
+	width: 100px;
+	height: 30px;
+	cursor: pointer;
+	background-image: url("../images/button.jpg");
+	background-position: 0 0;
+    background-repeat: repeat;
+	display: inline-block;
+	box-shadow: 0 0 5px 1px rgba(0, 107, 138, 0.2) inset;
+    border-radius: 5px 5px 5px 5px;
+    padding: 3px;
+	text-align: center;
+	font-family: "BebasNeueRegular",sans-serif;
+	font-size: 18px;
+    line-height: 30px;
+	color: #FFFFFF;
+	text-shadow: 0 2px 0 rgba(0, 107, 138, 0.2);
+	margin: 5px;
+	border: 1px solid transparent;
+	
+}
+.button_buy:hover {
+	background-image: url("../images/ticket_body.jpg");
+	box-shadow: 0 0 5px 1px rgba(0, 107, 138, 0.5) inset;
+	color: #1F4E72;
+	text-decoration: none;
+	border: 1px solid #a6d6e3;
+}
+.left_l {
+    margin-left: 12px;
+    margin-right: 55%;
+}
+.right_l {
+    float: right;
+    margin-left: 12px;
+    margin-right: 12px;
+    width: 45%;
+}
+.title_l {
+	color: #5DACC3;
+    font: 18px "KreonRegular",sans-serif;
+    font-weight: bold;
+    line-height: 19px;
+	text-transform: none;
+	text-shadow: 1px 2px 0 rgba(0, 107, 138, 0.1);
+}
+.rq_l {
+	padding: 10px 0 30px 0;
+}
+p {
+    margin-bottom: 14px;
+    margin-top: 4px;
+}
+#buy-now{
+	padding: 5px;
+	margin: 0px;
+	background: none;
+}
+#buy-now1{
+	padding: 5px;
+	margin: 0px;
+	background: none;
+}
+#buy{
+	padding: 5px;
+	margin: 0px;
+	background: none;
+}
+#buy1{
+	padding: 5px;
+	margin: 0px;
+	background: none;
+}
