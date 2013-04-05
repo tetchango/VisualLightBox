@@ -12,3 +12,4 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Domition Style Gallery with Native (with titles) thumbnails - Lightbox Gallery](http://visuallightbox.com/joomla-lightbox-gallery-dominion.html)
 *    [Catalyst Style Wordpress Image Lightbox](http://visuallightbox.com/wordpress-lightbox-catalyst.html)
 *    [Cloud Style JS jQuery LightBox](http://visuallightbox.com/js-jquery-cloud-demo.html)
+*    [jQuery Lightbox Dark Glass DEMO](http://www.visuallightbox.com/jquery-lightbox-dark-glass-demo.html)
