@@ -14,3 +14,4 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Cloud Style JS jQuery LightBox](http://visuallightbox.com/js-jquery-cloud-demo.html)
 *    [jQuery Lightbox Dark Glass DEMO](http://www.visuallightbox.com/jquery-lightbox-dark-glass-demo.html)
 *    [Visual Lightbox JS Native Style DEMO](http://www.visuallightbox.com/lightbox-mac-style-demo.html)
+*    [Lightbox Web Photo Gallery Social Demo](http://www.visuallightbox.com/photo-gallery-with-lightbox-simple-html-demo.html)
