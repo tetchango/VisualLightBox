@@ -16,3 +16,4 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Visual Lightbox JS Native Style DEMO](http://www.visuallightbox.com/lightbox-mac-style-demo.html)
 *    [Lightbox Web Photo Gallery Social Demo](http://www.visuallightbox.com/photo-gallery-with-lightbox-simple-html-demo.html)
 *    [Lightbox effect for Picture Gallery - Vista Demo](http://www.visuallightbox.com/lightbox-effect-vista-demo.html)
+*    [Lightbox Photo Software - Glossy Demo](http://www.visuallightbox.com/lightbox-photo-software-sticky-notes-demo.html)
