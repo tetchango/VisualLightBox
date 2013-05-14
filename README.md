@@ -18,3 +18,4 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Lightbox effect for Picture Gallery - Vista Demo](http://www.visuallightbox.com/lightbox-effect-vista-demo.html)
 *    [Lightbox Photo Software - Glossy Demo](http://www.visuallightbox.com/lightbox-photo-software-sticky-notes-demo.html)
 *    [Web Photo Album with Lightbox effect - Grey Demo](http://www.visuallightbox.com/lightbox-photo-album-polaroid-demo.html)
+*    [Image Gallery With Lightbox - Standard Demo](http://www.visuallightbox.com/image-gallery-with-lightbox-no-frame-demo.html)
