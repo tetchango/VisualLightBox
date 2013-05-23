@@ -20,3 +20,4 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Web Photo Album with Lightbox effect - Grey Demo](http://www.visuallightbox.com/lightbox-photo-album-polaroid-demo.html)
 *    [Image Gallery With Lightbox - Standard Demo](http://www.visuallightbox.com/image-gallery-with-lightbox-no-frame-demo.html)
 *    [jQuery plugin for Lightbox - Mobile Demo](http://www.visuallightbox.com/jquery-thickbox-iphone-demo.html)
+*    [Picture lightbox gallery - Vista Aero DEMO](http://www.visuallightbox.com/lightbox-for-photo-vista-aero-demo.html)
