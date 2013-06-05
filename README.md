@@ -23,3 +23,4 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Picture lightbox gallery - Vista Aero DEMO](http://www.visuallightbox.com/lightbox-for-photo-vista-aero-demo.html)
 *    [Multiple image lightbox - Droid DEMO](http://www.visuallightbox.com/lightbox-for-photo-android-demo.html)
 *    [Free Photo Lightbox with HTML - Noir DEMO](http://www.visuallightbox.com/lightbox-for-photo-noir-demo.html)
+*    [Lightbox gallery module - Chrome DEMO](http://www.visuallightbox.com/lightbox-for-photo-chrome-demo.html)
