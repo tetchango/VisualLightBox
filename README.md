@@ -26,3 +26,7 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 *    [Lightbox gallery module - Chrome DEMO](http://www.visuallightbox.com/lightbox-for-photo-chrome-demo.html)
 *    [Lightbox HTML Generator - Noble DEMO](http://www.visuallightbox.com/lightbox-for-photo-noble-demo.html)
 *    [CSS Lightbox image - Crystal DEMO](http://www.visuallightbox.com/lightbox-for-photo-crystal-demo.html)
+
+# Free download
+
+* [Download the latest version for Windows or Mac](http://www.visuallightbox.com/#download).
