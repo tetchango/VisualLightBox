@@ -8,7 +8,8 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 
 # Live Demos
 
-*    [Lightbox with jQuery Ghost DEMO](http://visuallightbox.com/lightbox-with-jquery-ghost-demo.html)
+*    [Lightbox Gallery Metro DEMO](http://www.visuallightbox.com/lightbox-gallery-metro-demo.html)
+*    [Lightbox with jQuery Ghost DEMO](http://www.visuallightbox.com/lightbox-with-jquery-ghost-demo.html)
 *    [Prime Time Image Lightbox with Rotate](http://visuallightbox.com/jquery-image-lightbox.html)
 *    [Domition Style Gallery with Native (with titles) thumbnails - Lightbox Gallery](http://visuallightbox.com/joomla-lightbox-gallery-dominion.html)
 *    [Catalyst Style Wordpress Image Lightbox](http://visuallightbox.com/wordpress-lightbox-catalyst.html)
