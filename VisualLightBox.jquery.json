@@ -3,7 +3,7 @@
 	"title": "Visual jQuery Lightbox - Beautiful jQuery Lightbox",
 	"description": " Visual LightBox is a web photo galleries with a nice Lightbox-style overlay effect. * Cross-browser - works perfectly on all browsers (including IE6) * Responsive - smoothly adapts to any browser resolutions and device screens * Mobile-ready - optimized for Android and iOS devices * Search engine friendly and semantically valid * Unobtrusive - even without Javascript, the images are still accessible * Huge collection of fancy Lightbox themes - see live demos * Keyboard navigation - use left/right arrow key to navigate * Floating and smooth cross-fade transition * Lightweight (12Kb only)",
 	"keywords": [ "ui","effect", "modal", "window", "popup", "gallery", "image", "lightbox", "javascript", "jquery", "photo", "slider", "picture", "plugin", "responsive", "rotator", "slideshow"],
-	"version": "5.6.2",
+	"version": "5.6.3",
 	"author": {
 		"name": "VisualLightBox.com",
 		"url": "http://visuallightbox.com"
